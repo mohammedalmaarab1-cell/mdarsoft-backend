@@ -1,0 +1,1 @@
+file_put_contents('final_test.txt', Http::post('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDD0WX2NLCZDfZOHf76asvF_WXPyeXHwB8', ['contents' =; 
